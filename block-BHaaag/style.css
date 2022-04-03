@@ -1,20 +1,6 @@
-ul#menu li {
-  display: inline;
-
-  padding-right: 10px;
-  padding-left: 0px;
-  text-decoration: underline;
-  color: rgb(236, 36, 99);
-}
-ul {
-  padding-inline-start: 3px;
-  font-weight: bold;
-}
 body {
   background-color: #333571;
-  margin: 20px;
   color: white;
-  width: 80%;
 }
 h2 {
   color: #00b067;
@@ -25,4 +11,7 @@ h1 {
 }
 p {
   color: whitesmoke;
+}
+a {
+  color: red;
 }
